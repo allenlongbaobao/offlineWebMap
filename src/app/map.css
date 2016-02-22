@@ -1,0 +1,24 @@
+.olImageLoadError {
+	visibility: hidden!important;
+	
+}
+#welcome {
+	position: absolute;
+	display: inline;
+	float: left;
+	padding-bottom: 100px;
+}
+
+#map {
+	margin-left: 60px!important;
+	margin-top: -20px!important;
+	background: #f1f1f1;
+	box-shadow:0 0 20px #234878;
+	border: 7px solid #FCFCFC;
+}
+
+p {
+	text-align: center;
+	font-size: 30px;
+	font-family: Song;
+}
