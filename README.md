@@ -1,5 +1,4 @@
 # offlineWebMap expandable WebMap which is offline
-===
 
 ## how to make a offline WebMap?
 >> Simply, to make an offline WebMap, just need two things ---- map tiles and scripts.
