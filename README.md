@@ -8,5 +8,6 @@ expandable WebMap which is offline
 >> scripts, that's the important. Avoiding make the same whole repeatedly, i use the opensource script: [OpenLayers](https://github.com/openlayers/ol2),based on openLayer, we can show the tiles easily!
 
 ## quick start
+  `grunt server`
 
 ## what else can we do on the Map?
